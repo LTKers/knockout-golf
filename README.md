@@ -17,11 +17,11 @@ Originally developed using Plastic SCM and now fully migrated to GitHub, Knockou
 ##  Demo / Screenshots
 <div align="center">
 
-![2025-07-2517-23-58online-video-cutter com2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1a8ca8c6-a36e-49f5-8b1f-47d83fe9e014)
+![Gameplay1](Media/gif1.gif)
 
-![2025-07-2517-23-58online-video-cutter com4-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/614b60de-385c-4c82-9ba9-4a76a6ae9176)
+![Gameplay2](Media/gif2.gif)
 
-![2025-07-2517-51-15online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5abfe2d8-a396-4af6-8331-957d260b7cb2)
+![Gameplay3](Media/gif3.gif)
 
 </div>
 
