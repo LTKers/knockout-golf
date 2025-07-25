@@ -16,12 +16,12 @@ Originally developed using Plastic SCM and now fully migrated to GitHub, Knockou
 
 ##  Demo / Screenshots
 <div align="center">
-
-![Gameplay1](Media/gif1.gif)
+  
+![Gameplay3](Media/gif3.gif)
 
 ![Gameplay2](Media/gif2.gif)
 
-![Gameplay3](Media/gif3.gif)
+![Gameplay1](Media/gif1.gif)
 
 </div>
 
