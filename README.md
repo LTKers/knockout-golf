@@ -29,12 +29,12 @@ Originally developed using Plastic SCM and now fully migrated to GitHub, Knockou
 
 <div align="center">
 Blender was used to create 3D models in order to maintain consistent and vibrant visuals.
+  
 ![Blender1](Media/blender1.png)
 
 ![Blender2](Media/blender2.png)
 
 Custom shaders were created in Unity's Shader Graph to add dynamic feedback and polish.
-
   
 ![grass](Media/grass.png)
 
