@@ -55,3 +55,10 @@ This project was developed using the following tools and technologies:
 | Version Control      | Git, [GitHub](https://github.com/), previously Plastic SCM                       |
 | Other Libraries      | TextMeshPro, LeanTween, Unity 2D Animation, Unity Tilemap, and many more         |
 
+## License / Usage
+
+Knockout Golf is released free for all use.  
+Feel free to use/modify this project in any way you like.
+
+Enjoy!
+
