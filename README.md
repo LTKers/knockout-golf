@@ -40,3 +40,18 @@ Custom shaders were created in Unity's Shader Graph to add dynamic feedback and 
 
 ![shader](Media/shader.png)
 </div>
+
+## 🛠️ Tech Stack
+
+This project was developed using the following tools and technologies:
+
+
+| Category             | Tool / Technology                                                               |
+|----------------------|----------------------------------------------------------------------------------|
+| Game Engine          | [Unity](https://unity.com/) (Universal Render Pipeline - URP)                   |
+| Programming Language | C#                                                                               |
+| Visual Effects       | Shader Graph, Unity URP Materials                                                |
+| 3D Modeling          | [Blender](https://www.blender.org/)                                              |
+| Version Control      | Git, [GitHub](https://github.com/), previously Plastic SCM                       |
+| Other Libraries      | TextMeshPro, LeanTween, Unity 2D Animation, Unity Tilemap, and many more         |
+
